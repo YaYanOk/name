@@ -1,0 +1,14 @@
+.block{
+	width: 200px;
+	height: 45px;
+}
+.number{
+	width: 45px;
+	height: 45px;
+}
+.top{
+	width: 100px;
+}
+input{
+	width: 180px;
+}
