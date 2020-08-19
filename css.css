@@ -1,0 +1,30 @@
+#insta{
+	font-size: 40px;
+	color:#fff;
+	margin-top: 1750px;
+	margin-left: 250px;
+	font-family: sans-serif;
+}
+body{
+	background-color: #2d3436;
+	
+}
+img{
+	margin-left: 60px;
+	margin-top: 40px;
+}
+.back{
+	font-size: 50px;
+	text-decoration: none;
+	color: #2d3436;
+	margin-top: 20px;
+	background-color: #b2bec3;
+	padding: 15px 20px;
+	border: none;
+	text-align: center;
+	border-radius: 10px;
+	font-family: sans-serif;
+}
+.div{
+	margin-left: 20px;
+}
